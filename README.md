@@ -33,9 +33,10 @@ I enjoy exploring the intersection of **Product Management, Technology, AI, and 
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TDservis&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDservis&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TDservis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDservis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
