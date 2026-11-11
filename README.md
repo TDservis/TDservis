@@ -35,7 +35,6 @@ I enjoy exploring the intersection of **Product Management, Technology, AI, and 
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=TDservis&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TDservis&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>>
 
 ---
