@@ -44,7 +44,6 @@ I enjoy exploring the intersection of **Product Management, Technology, AI, and 
 I'm always open to interesting conversations, new ideas, and opportunities to collaborate.
 
 - 🐦 X / Twitter: [@al_timur57912](https://x.com/al_timur57912)
-- 📧 Email: tdservispro@gmail.com
 
 ---
 
